@@ -22,7 +22,7 @@ const MatchPage = ({ data, location, pageContext }) => {
             <PageBreadcrumb
                 pageContext={pageContext}
                 location={location}
-                title="UPCOMING MATCH"
+                title="UPCOMING MATCHES"
             />
             <MatchArea
                 data={{

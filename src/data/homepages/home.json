@@ -8,12 +8,12 @@
             "headings": [
                 {
                     "level": "h1",
-                    "content": "BEST GAME PLAYING TODAY."
+                    "content": "Fair. Fun. Fattlestar Galactica."
                 }
             ],
             "texts": [
                 {
-                    "content": "Simply text of the printing and typesetting industry."
+                    "content": "Provably fair and fun gaming and live streaming."
                 }
             ],
             "buttons": [
@@ -53,14 +53,14 @@
                             "alt": "LIVE STREAMING"
                         }
                     ],
-                    "description": "When unknown printer took type and scrambled it to make type specimen book centuries,"
+                    "description": "Live streamed video game matches from your favorite games: Call of Duty, Mortal Kombat, Madden, and More!"
                 },
                 {
                     "id": "features-2",
                     "headings": [
                         {
                             "level": "h3",
-                            "content": "GAME NEWS"
+                            "content": "PROVABLY FAIR GAMING"
                         }
                     ],
                     "images": [
@@ -73,14 +73,14 @@
                             "alt": "LIVE STREAMING"
                         }
                     ],
-                    "description": "When unknown printer took type and scrambled it to make type specimen book centuries,"
+                    "description": "Games are verified random and provably fair using Chainlink VRF."
                 },
                 {
                     "id": "features-3",
                     "headings": [
                         {
                             "level": "h3",
-                            "content": "GAME TOURNAMENTS"
+                            "content": "STAKING"
                         }
                     ],
                     "images": [
@@ -93,7 +93,7 @@
                             "alt": "LIVE STREAMING"
                         }
                     ],
-                    "description": "When unknown printer took type and scrambled it to make type specimen book centuries,"
+                    "description": "Stake your Chips to earn rewards while you play!"
                 }
             ]
         },

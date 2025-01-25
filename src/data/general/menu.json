@@ -9,55 +9,14 @@
         },
         {
             "id": "menu-2",
-            "text": "Match",
+            "text": "VERSUS",
             "link": "/match"
         },
         {
             "id": "menu-3",
-            "text": "Pages",
-            "link": "/faq",
-            "submenu": [
-                {
-                    "id": "menu-31",
-                    "text": "About Us Page",
-                    "link": "/about-us"
-                },
-                {
-                    "id": "menu-32",
-                    "text": "Games Page",
-                    "link": "/games"
-                },
-                {
-                    "id": "menu-33",
-                    "text": "FAQ's Page",
-                    "link": "/faq"
-                },
-                {
-                    "id": "menu-34",
-                    "text": "Game players",
-                    "link": "/players"
-                },
-                {
-                    "id": "menu-35",
-                    "text": "404 not found!",
-                    "link": "/404"
-                },
-                {
-                    "id": "menu-36",
-                    "text": "Login Page",
-                    "link": "/login"
-                },
-                {
-                    "id": "menu-37",
-                    "text": "Register Page",
-                    "link": "/register"
-                },
-                {
-                    "id": "menu-38",
-                    "text": "Bettle team Page",
-                    "link": "/bettle-teams"
-                }
-            ]
+            "text": "Games",
+            "link": "/games"
+            
         },
         {
             "id": "menu-4",
